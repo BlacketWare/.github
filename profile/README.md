@@ -21,7 +21,7 @@
   <h2>Contact us</h2>
   <p><b>email</b> - bware@zastix.xyz</p>
   <h3>discord</h3>
-  <p><b>@notzastix</b> - "zastix#0001"</p>
+  <p><b>@notzastix</b> - zastix#0001</p>
   <p><b>@l2vy7</b> - "᲼᲼    ᲼᲼#6542"</p>
   
   <h2>Contributors</h2>
