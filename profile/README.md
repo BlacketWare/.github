@@ -27,6 +27,5 @@
   <h2>Contributors</h2>
   <p><b>@notzastix</b> - INSANE HAXER - hax creator...</p>
   <p><b>@l2vy7</b> - hax creator (very cool guy)</p>
-  <p><b>@VillainsRule4000</b> - visual marketer (cool guy)</p>
 <div>
 
