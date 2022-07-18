@@ -13,7 +13,7 @@
   
   <h2>Resources</h2>
   <p>The Actual URL:</p>
-  <h3><b><a href="https://github.com/BlacketWare/">BlacketWare</a></b></h3>
+  <h3><b><a href="https://github.com/BlacketWare/blacket-hacks">BlacketWare</a></b></h3>
 
   <h2>More Betastar Databases/URLs</h2>
   <p><a href="https://betastarutils.github.io/">BetastarUtils.github.io</a> - just information</p>
@@ -23,6 +23,8 @@
   <h3>Discord</h3>
   <p><b>@notzastix</b> - zastix#0001</p>
   <p><b>@l2vy7</b> - "᲼᲼    ᲼᲼#6542"</p>
+  <h3>Guilded</h3>
+  <p><b>@VillainsRule4000</b> - <a href="https://www.guilded.gg/profile/mbZwebVm">VillainsRule</a>
   
   <h2>Contributors</h2>
   <p><b>@notzastix</b> - INSANE HAXER - hax creator...</p>
