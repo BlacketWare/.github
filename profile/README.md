@@ -3,13 +3,12 @@
   <p>Hi there 👋</p>
   
   <h2>About Us</h2>
-  <p>Welcome to the BlacketWare. Similar to BlooketWare, we make Blacket & Betastar hacks.</p>
+  <p>Welcome to BlacketWare. Similar to BlooketWare, we make Blacket hacks for everyone.</p>
   <p>All of the hacks are constantly being updated for efficiency.</p>
   
   <h2>Contribution</h2>
   <p>You can contribute by making pull requests.</p>
-  <p>For the text files, Markdown is used, and for the hacks, Javascript is used.</p>
-  <p>Just open a file and click the edit pen! Github will help you send the edits to review.</p>
+  <p>For the text files, Markdown is used, and for the scripts, Javascript is used.</p>
   
   <h2>Resources</h2>
   <p><b><a href="https://github.com/BlacketWare/blacket-hacks">BlacketWare Hacks</a></b></p>
