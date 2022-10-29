@@ -19,7 +19,7 @@
   <p><b>Email</b> - bware@zastix.xyz</p>
   <h3>Discord</h3>
   <p><b>@notzastix</b> - zastix#0001</p>
-  <p><b>@l2vy7</b> - "᲼᲼    ᲼᲼#6542"</p>
+  <p><b>@l2vy7</b> - acai#6284</p>
   
   <h2>Contributors</h2>
   <p><b><a href="https://github.com/notzastix">@notzastix</a></b></p>
