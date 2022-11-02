@@ -1,6 +1,6 @@
 <div align="center">
   <h1>BlacketWare</h1>
-  <p>zastix & l2vy7 have had github accounts termed <strike>github sucks</strike></p>
+  <p>zastix & l2vy7 have had github accounts flagged <strike>github sucks</strike></p>
   
   <h2>About Us</h2>
   <p>Welcome to BlacketWare. Similar to BlooketWare, we make Blacket hacks for everyone.</p>
