@@ -1,14 +1,18 @@
 <div align="center">
   <h1>BlacketWare</h1>
-  <p>zastix & l2vy7 have had github accounts flagged <strike>github sucks</strike></p>
+  <p>if you see this coming from bmincs' server, leave.</p>
+  <p>it's not a good place there.</p>
+  <br>
+  <p><b>zastix's account has been flagged.</b> no clue when unflagged.</p>
   
   <h2>About Us</h2>
   <p>Welcome to BlacketWare. Similar to BlooketWare, we make Blacket hacks for everyone.</p>
   <p>All of the hacks are constantly being updated for efficiency.</p>
   
-  <h2>Resources</h2>
-  <p><b><a href="https://github.com/BlacketWare/blacket-hacks">BlacketWare Hacks</a></b></p>
-  <p><a href="https://www.npmjs.com/package/blacket-turtle">turtle, Blacket v2 API wrapper</a></p>
+  <h2>Scripts</h2>
+  <p><b><a href="https://github.com/BlacketWare/blacket-hacks">Legacy</a></b></p>
+  <p><b><a href="https://github.com/BlacketWare/v2">V2</a></b></p>
+  <p><a href="https://trtl.acaiberii.win">trtl</a></p>
 
   <h2>Contact Us</h2>
   <h3>Discord</h3>
