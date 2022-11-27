@@ -1,7 +1,6 @@
 <div align="center">
   <h1>BlacketWare</h1>
-  <p>if you see this coming from bmincs' server, leave.</p>
-  <p>it's not a good place there.</p>
+  <h1>if you see this coming from bmincs' server, leave. it's not a good place.</h1>
   <br>
   <p><b>zastix's account has been flagged.</b> no clue when unflagged.</p>
   
