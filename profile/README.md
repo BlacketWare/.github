@@ -1,17 +1,19 @@
 <div align="center">
   <h1>BlacketWare</h1>
-  <h1>if you see this coming from bmincs' server, leave. it's not a good place.</h1>
   <br>
-  <p><b>zastix's account has been flagged.</b> no clue when unflagged.</p>
+  <p><b>zastix's account has been flagged.</b> no clue when this will be reversed.</p>
   
   <h2>About Us</h2>
   <p>Welcome to BlacketWare. Similar to BlooketWare, we make Blacket hacks for everyone.</p>
   <p>All of the hacks are constantly being updated for efficiency.</p>
+  <p>Issues are carefully watched and reviewed.</p>
   
   <h2>Scripts</h2>
   <p><b><a href="https://github.com/BlacketWare/blacket-hacks">Legacy</a></b></p>
   <p><b><a href="https://github.com/BlacketWare/v2">V2</a></b></p>
-  <p><a href="https://trtl.acaiberii.win">trtl</a></p>
+  
+  <h2>Featured</h2>
+  <p><a href="https://trtl.acaiberii.win"><b>trtl by @l2vy7</b></a></p>
 
   <h2>Contact Us</h2>
   <h3>Discord</h3>
