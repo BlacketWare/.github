@@ -5,6 +5,7 @@
   <h3><a href="https://discord.gg/BJCms66bcu">Discord Support Server</a></h3>
   
   ![](https://komarev.com/ghpvc/?username=BlacketWare&color=lightgrey)
+  <p>The above was NOT flooded, I promis guys 😰</p>
   
   <h2>Scripts</h2>
   <h3><a href="https://github.com/BlacketWare/v2">Current (v2) Hacks</a></h3>
