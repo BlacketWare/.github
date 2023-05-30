@@ -1,4 +1,12 @@
 <div align="center">
+  <h1> i am done with blacket. </h1>
+  <h3> our projects have been archived. do not dm me or contact me about blacket. let me be. </h3>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <img src="https://avatars.githubusercontent.com/u/107235566?s=200&v=4" width="300">
   <h1>BlacketWare</h1>
   <h3>The best working Blacket Hacks.</h3>
