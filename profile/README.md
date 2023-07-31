@@ -1,6 +1,9 @@
 <div align="center">
-  <h1> i am done with blacket. </h1>
-  <h3> our projects have been archived. do not dm me or contact me about blacket. let me be. </h3>
+  <h1> blacketware is likely permanently archived. </h1>
+  <h3> instead, check out these people! </h3>
+  <p><b>tremblero</b> - https://github.com/tremblero</p>
+  <br>
+  <p><b>we do not strictly verify the reliability of any above users.</b></p>
   <br>
   <br>
   <br>
