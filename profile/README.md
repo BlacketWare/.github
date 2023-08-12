@@ -1,15 +1,4 @@
 <div align="center">
-  <h1> blacketware is likely permanently archived. </h1>
-  <h3> instead, check out these people! </h3>
-  <p><b>tremblero</b> - https://github.com/tremblero</p>
-  <br>
-  <p><b>we do not strictly verify the reliability of any above users.</b></p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   <img src="https://avatars.githubusercontent.com/u/107235566?s=200&v=4" width="300">
   <h1>BlacketWare</h1>
   <h3>The best working Blacket Hacks.</h3>
@@ -22,8 +11,8 @@
   
   <h2>Contributors</h2>
   <h3>Current</h3>
-  <p><b><a href="https://github.com/VillainsRule4000">@VillainsRule4000</a></b></p>
-  <p><b><a href="https://acaiberii.win">@intertransfer</a></b></p>
+  <p><b><a href="https://zastix.club/">@notzastix</a></b></p>
   <h3>Former</h3>
-  <p><b><a href="https://replit.com/@notzastix">@notzastix</a></b></p>
+  <p><b><a href="https://acaiberii.win">@intertransfer</a></b></p>
+  <p><b><a href="https://github.com/VillainsRule4000">@VillainsRule4000</a></b></p>
 <div>
